@@ -70,7 +70,7 @@ python extract_bol.py path/to/your/bol.pdf --output output.json
 ### Example
 
 ```bash
-python extract_bol.py 065-2024\ MBL\ MEDUP1966175.pdf
+python extract_bol.py ./public/065-2024\ MBL\ MEDUP1966175.pdf
 ```
 
 With OCR:
