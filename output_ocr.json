@@ -1,0 +1,50 @@
+{
+  "document_type": "Bill of Lading",
+  "filename": "065-2024 MBL MEDUP1966175.pdf",
+  "bol_number": "MEDUP1966175",
+  "shipper": {
+    "raw_text": "INTERCROMA SA SHIPPER'S LOAD, STOW AND COUNT\nFCLFCL\n\nRua Conde D'eu, 800- Bairro Alpino\nPhone (47) 3631-4600 - Fax (47)\n3631-4604 89286-691 Sao Bento do\nSul - SC - Brazil CNPJ 005577130001",
+    "company_name": "INTERCROMA SA SHIPPER'S LOAD, STOW AND COUNT",
+    "address": "FCLFCL Rua Conde D'eu, 800- Bairro Alpino Phone (47) 3631-4600 - Fax (47) 3631-4604 89286-691 Sao Bento do Sul - SC - Brazil CNPJ 005577130001"
+  },
+  "consignee": {
+    "raw_text": "MUSCAT WOODEN PALLETS L.L.C.\n\nP.O. BOX - 284, AUQADEN 217\nSALALAH, SULTANETE OF OMAN\nLloyds/IMO Number: 9720524\n\nPHONE: +968 23219649 LINER TERMS BOTH ENDS - LILO / FREIGHT AS PER AGREEMENT\nFAX: + 968 23219632\n\nNOTIFY PARTIES : (No responsibility shall attach to Carrier or to his Agent for failure to notify - see\n\nClause 20)\nMUSCAT WOODEN PALLETS L.L.C. PORT OF DISCHARGE AGENT:\nP.O. BOX - 284, AUQADEN 217 MSC Mediterranean Shipping Company LLC.Way \"\nno. 815, Behind Al AL Bait Mosque, North Awqad\nSALALAH, SULTANETE OF OMAN PO Botibe PO ati\nPHONE: +968 23219649 Salalah\nPhone : +968 23 219 590\nFAX: + 968 23219632 Fax : +968 23 219 592",
+    "company_name": "MUSCAT WOODEN PALLETS L.L.C.",
+    "address": "P.O. BOX - 284, AUQADEN 217 SALALAH, SULTANETE OF OMAN Lloyds/IMO Number: 9720524 PHONE: +968 23219649 LINER TERMS BOTH ENDS - LILO / FREIGHT AS PER AGREEMENT FAX: + 968 23219632 NOTIFY PARTIES : (No responsibility shall attach to Carrier or to his Agent for failure to notify - see Clause 20) MUSCAT WOODEN PALLETS L.L.C. PORT OF DISCHARGE AGENT: P.O. BOX - 284, AUQADEN 217 MSC Mediterranean Shipping Company LLC.Way \" no. 815, Behind Al AL Bait Mosque, North Awqad SALALAH, SULTANETE OF OMAN PO Botibe PO ati PHONE: +968 23219649 Salalah Phone : +968 23 219 590 FAX: + 968 23219632 Fax : +968 23 219 592"
+  },
+  "notify_party": {
+    "raw_text": "NOTIFY PARTIES : (No responsibility shall attach to Carrier or to his Agent for failure to notify - see\nClause 20)\nMUSCAT WOODEN PALLETS L.L.C.\n\nP.O. BOX - 284, AUQADEN 217\nSALALAH, SULTANETE OF OMAN\nPHONE: +968 23219649",
+    "company_name": "NOTIFY PARTIES : (No responsibility shall attach to Carrier or to his Agent for failure to notify - see",
+    "address": "Clause 20) MUSCAT WOODEN PALLETS L.L.C. P.O. BOX - 284, AUQADEN 217 SALALAH, SULTANETE OF OMAN PHONE: +968 23219649"
+  },
+  "vessel": {
+    "name": "AND",
+    "voyage": "NO",
+    "raw_text": "AND/NO"
+  },
+  "containers": [
+    {
+      "container_number": "BEAU5862453",
+      "seal_number": "DUE",
+      "package_count": "44",
+      "weight": "000.000",
+      "context": "ement\nNumbers and Marks (Continued on attached Bill of Ladina Rider paaes(s). if aoplicable) Weight\nBEAU5862453 44 PALLET of IN 2X40'HC CONTAINERS WITH 88 PALLETS WITH 25,000.000 kgs. 50.187 cu. m.\n40° HIGH CUBE 100,374 CBM OF SAWN TIMBER PALLET\nAS PER PROFORMA INVOICE 065/2024\nSeal Number: DUE: 24BR001928059-"
+    },
+    {
+      "container_number": "BMOU5932452",
+      "seal_number": "FJ21154465",
+      "package_count": "44",
+      "weight": "000.000",
+      "context": "PAID ABROAD\n001/088 AS PER AGREEMENT\nWOODEN PACKAGE USED: TREATED/CERTIFIED\n44071100\nHS Code:440711\nBMOU5932452 44 PALLET of. 25,000.000 kgs. 50.187 cu. m.\n40° HIGH CUBE 44071100\nHS Code:440711\nSeal Number:\nFJ21154465\nMarks and Numbers: .\nTotal : 50,000.000 kgs. 100.374cu. m.\nXX S"
+    }
+  ],
+  "issue_date": "28-Nov-2024",
+  "shipped_date": "28-Nov-2024",
+  "port_of_loading": "PARANAGUA, PR, BRAZIL",
+  "port_of_discharge": "SALALAH",
+  "cargo": {
+    "package_count": "88",
+    "gross_weight_kg": "50000.000",
+    "description": "Numbers and Marks (Continued on attached Bill of Lading Rider pages(s), if applicable)"
+  }
+}

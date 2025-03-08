@@ -1,0 +1,46 @@
+{
+  "document_type": "Bill of Lading",
+  "filename": "065-2024 MBL MEDUP1966175.pdf",
+  "bol_number": "MEDUP1966175",
+  "shipper": {
+    "raw_text": "INTERCROMA SA\nRua Conde D'eu, 800- Bairro Alpino\nPhone (47) 3631-4600 - Fax (47)\n3631-4604 89286-691 Sao Bento do\nSul - SC - Brazil",
+    "company_name": "INTERCROMA SA",
+    "address": "Rua Conde D'eu, 800- Bairro Alpino\nPhone (47) 3631-4600 - Fax (47)\n3631-4604 89286-691 Sao Bento do\nSul - SC - Brazil"
+  },
+  "consignee": {
+    "raw_text": "MUSCAT WOODEN PALLETS L.L.C.\nP.O. BOX - 284, AUQADEN 217\nSALALAH, SULTANETE OF OMAN",
+    "company_name": "MUSCAT WOODEN PALLETS L.L.C.",
+    "address": "P.O. BOX - 284, AUQADEN 217\nSALALAH, SULTANETE OF OMAN"
+  },
+  "notify_party": {
+    "raw_text": "NOTIFY PARTIES : (No responsibility shall attach to Carrier or to his Agent for failure to notify - see Clause 20) MUSCAT WOODEN PALLETS L.L.C. P.O. BOX - 284, AUQADEN 217 SALALAH, SULTANETE OF OMAN PHONE: +968 23219649 FAX: + 968 23219632"
+  },
+  "vessel": {
+    "raw_text": "MSC CLEA/QI442R",
+    "name": "MSC CLEA",
+    "voyage": "QI442R"
+  },
+  "containers": [
+    {
+      "container_number": "BEAU5862453",
+      "seal_number": "40",
+      "package_count": "44",
+      "weight": null,
+      "context": "rland \nWebsite: www.msc.com\nMEDITERRANEAN SHIPPING COMPANY S.A.\nSCAC Code: MEDU\nBILL OF LADING No. \nBEAU5862453\nSeal Number:\n40' HIGH CUBE\n44 PALLET of IN 2X40'HC CONTAINERS WITH 88 PALLETS WITH\n100,374 CBM OF SAWN TIMBER PALLET\nAS PER PROFORMA INVOICE 065/2024\nDUE: 24BR001928059-7\nRUC: 4BR00557713200000000000"
+    },
+    {
+      "container_number": "BMOU5932452",
+      "seal_number": "40",
+      "package_count": "44",
+      "weight": "000.000",
+      "context": " 50.187 cu. m.\nkgs.\n 25,000.000\nFJ21074021\nMarks and Numbers: MADE IN \nBRAZIL\nMUSCAT WOODEN\n001/088\nBMOU5932452\nSeal Number:\n40' HIGH CUBE\n44 PALLET of .\n44071100\nHS Code:440711\n 50.187 cu. m.\nkgs.\n 25,000.000\nFJ21154465\nMarks and Numbers: .\n 50,000.000 kgs.\n 100.374cu. m.\nTotal :\n24-Nov-2024\nPLACE AND DATE OF"
+    }
+  ],
+  "issue_date": "28-Nov-2024",
+  "shipped_date": "28-Nov-2024",
+  "port_of_loading": "PARANAGUA, PR, BRAZIL",
+  "port_of_discharge": "Salalah",
+  "cargo": {
+    "description": "(Continued on attached Bill of Lading Rider pages(s), if applicable)"
+  }
+}
